@@ -5,5 +5,9 @@
 7777777777777
 888888888888
 other people modify this file
+<<<<<<< HEAD
 
 test
+=======
+我修改了这个地方我是D:\www\testgit3\testgit\的readme.txt
+删了又没删
